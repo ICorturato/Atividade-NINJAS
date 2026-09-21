@@ -1,0 +1,5 @@
+/home/mtbraz/Projetos/Spring/API_Ninjas/src/main/java/br/com/fatec/ninjas/NinjasApplication.java
+/home/mtbraz/Projetos/Spring/API_Ninjas/src/main/java/br/com/fatec/ninjas/controller/NinjaController.java
+/home/mtbraz/Projetos/Spring/API_Ninjas/src/main/java/br/com/fatec/ninjas/model/Ninja.java
+/home/mtbraz/Projetos/Spring/API_Ninjas/src/main/java/br/com/fatec/ninjas/repository/NinjaRepository.java
+/home/mtbraz/Projetos/Spring/API_Ninjas/src/main/java/br/com/fatec/ninjas/service/NinjaService.java
